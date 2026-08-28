@@ -15,6 +15,7 @@ Last checked: 2026-08-27 (Asia/Singapore)
 - [`COMPETITOR_LANDSCAPE.md`](./COMPETITOR_LANDSCAPE.md) / [`IDEA_DEEP_DIVE.md`](./IDEA_DEEP_DIVE.md) — 三候选深挖、逐项竞品和统一评分。
 - [`RISKS_AND_KILL_CRITERIA.md`](./RISKS_AND_KILL_CRITERIA.md) / [`RESEARCH_LOG.md`](./RESEARCH_LOG.md) — 风险、kill criteria、假设与检索记录。
 - [`RELEASE_RUNBOOK.md`](./RELEASE_RUNBOOK.md) — Vercel 发布、真实 Site tools smoke test 与提交前冻结步骤。
+- [`WINDOWS_DEVELOPMENT.md`](./WINDOWS_DEVELOPMENT.md) — Windows clone、运行、测试和 ChatGPT desktop WebMCP 验证步骤。
 - [`CAPABILITY_FACT_CHECK_2026.md`](./CAPABILITY_FACT_CHECK_2026.md) — 官方比赛、WebMCP、浏览器与 OpenAI 2026 能力核验。
 - [`MARKET_HARNESS_RESEARCH_2026.md`](./MARKET_HARNESS_RESEARCH_2026.md) — WebMCP / Browser Agent 市场、现有产品、可借鉴与应避免的设计，以及 GPT-5.6 / modern Agent Harness 趋势。
 - [`HARNESS_NATIVE_FEATURE_BLUEPRINT.md`](./HARNESS_NATIVE_FEATURE_BLUEPRINT.md) — 将研究结论翻译为可实现功能：动态工具面、preview/commit、stable IDs、receipts、checkpoint、branch isolation、verification、batch tools 和 eval。
