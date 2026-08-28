@@ -52,4 +52,4 @@
 
 - P0 是本地 IndexedDB sandbox，不连接真实订单、支付或身份系统。
 - 不含 OpenAI API key；模型推理由外部 ChatGPT/Codex agent 提供。
-- 当前仓库没有初始化 Git，也没有 Vercel 登录态；公开仓库、部署和 Devpost 提交需要项目负责人显式执行。
+- 当前仓库已初始化 Git 并推送到公开 `main` 分支；本机仍没有 Vercel 登录态，因此部署和 Devpost 提交需要项目负责人显式执行。
